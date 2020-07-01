@@ -1,0 +1,23 @@
+curry d'agneau rapide			risotto aux légumes de printemps			brochettes de lotte et saumon, jardinière de printemps			Keftas de veau à la menthe, rémoulade de radis rose			galettes de blé aux légumes du printemps			galette de boulghour			Tajine de daurade aux légumes 			Dorade au four et aux pommes de terre			hamburger au barbecue		
+2427,35  cal			1347,84  cal			3136,66  cal			1610,74  cal			715,98  cal			1811,96  cal			906,05  cal			1519,6  cal			1984,4  cal		
+ingredients	poids (g)	calories	ingredients	poids (g)	calories	ingredients	poids (g)	calories	Keftas de veau à la menthe, rémoulade de radis rose	poids (g)	calories	ingredients	poids (g)	calories	ingredients	poids (g)	calories	ingredients	poids (g)	calories	ingredients	poids (g)	calories	ingredients	poids (g)	calories
+Agneau	600	1680	riz pour risotto	300	294	filet de saumon	350	609	veau haché	500	860	blé	200	310	boulghour	160	547	filet de daurade	600	546	daurade	300	231	bœufs haché	500	1610
+Oignons	100	46	carottes	500	182	lotte	350	340	oignons	100	46	huile d'olive	15	133	bouillon	40	107	carottes	375	137	pommes de terre	800	680	œuf	60	31
+ail	5	7	Oignons	200	92	Citron	120	48	radis noir	150	27	farine	12	44	courgette	700	210	poivron	250	55	tomate	300	60	oignons	100	46
+curry	10	0	poireau	150	63	safran	0,25	0	cumin	0,2	0	œuf	60	31	carottes	250	91	Citron	120	48	oignons	200	92	tomate	100	20
+coulis de tomates	200	58	huile	20	177	sel	0,2	0	moutarde	5	5	courgette	350	105	pommes de terre	200	170	sel	0,2	0	ail	160	210	bacon	72	277
+lait de coco	200	460	Vin blanc 10° verre = 15 cl	200	216	poivre	0,2	0	menthe fraiche	6	3	carotte	125	48	ail	160	210	poivre	0,2	0	sel	0,2	0			
+coriande	50	0	beurre	20	152	oignons	75	35	yaourt nature brassé	500	365	oignons	100	46	œuf	240	125	colombo	30	0	poivre	0,2	0			
+huile	20	177	bouillon de légumes	1	0	carottes	10	4	œuf	30	16	persil	4	0	farine	24	87	paprika	30	0	fenouil	5	1			
+sel	0,2	0	parmesan rapé	39	172	petit pois	150	107	citron	60	24	poivre	0,2	0	huile d'olive	30	265	basilic	2,5	1	thym	17	0			
+			persil	5,2	0	artichaud	1200	564	huile d'olive	30	265	sel	0,2	0	sel	0,2	0	tomate	600	120	laurier	7	0			
+			poivre	0,1	0	pois cassés	150	534							poivre	0,2	0	eau	10	0	vin blanc	300	246			
+			sel	0,2	0	pointes d'asperges blanches	150	30																		
+						pointes d'asperges vertes	150	30																		
+						mayonnaise	80	544																		
+						câpres	18	5																		
+						yaourt nature	125	88																		
+						huile	20	177																		
+						citron	60	24																		
+						sel	0,2	0																		
+						ciboulette	0,2	0																		

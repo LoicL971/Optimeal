@@ -1,0 +1,812 @@
+Punch verre = 8 cl	135
+Abricot frais	45
+Abricot jus	60
+Abricots secs	272
+Agneau	280
+Agneau (cervelle)	112
+Agneau (côtelettes)	330
+Agneau (épaule)	289
+Agneau (foie)	132
+Agneau (gigot)	250
+Agneau (langue)	193
+Agneau (rognon)	87
+Agneau (selle)	234
+Aiglefin	71
+Airelle	25
+Aloyau de boeuf	266
+Amande (unité)	10
+Amandes	634
+Ananas (conserve)	96
+Ananas frais	51
+Ananas jus	54
+Anchois	160
+Andouille	300
+Andouillette	320
+Anguille	250
+Anguille fumée	305
+Apéricube (à l’unité)	16
+Araignée de mer	95
+Artichaut	40
+Asperges	26
+Aubergine	29
+Avocat	200
+Babybel	335
+Bacon	385
+Baguette (unité)	510
+Banane	90
+Banane plantain	126
+Banane sèche	290
+Bar	90
+Barbue	117
+Baudroie ou lotte	79
+Bavette (boeuf)	200
+Beaufort	396
+Bécasse	115
+Belons	80
+Bette ou blette	33
+Betterave rouge	40
+Beurre	760
+Beurre	760
+Beurre (1 noix)	70
+Beurre (1 noix)	70
+Beurre allégé	410
+Beurre allégé	410
+Beurre salé	760
+Beurre salé	760
+Bière “33” Export bouteille = 25 cl	97
+Bière canette = 33 cl	178
+Bière sans alcool canette = 33 cl	9
+Bifteck de boeuf	200
+Bifteck de cheval	110
+Bigorneaux (décortiqués)	100
+Biscotte (unité)	39
+Biscottes	390
+Biscottes au gluten	406
+Biscottes sans sel	390
+Biscuits	400
+Biscuits pomme Regain	470
+Bleus	410
+Boeuf	250
+Boeuf (aiguillette)	200
+Boeuf (aloyau)	266
+Boeuf (araignée)	200
+Boeuf (bavette)	200
+Boeuf (cervelle)	130
+Boeuf (coeur)	126
+Boeuf (corned-beef)	275
+Boeuf (côte)	260
+Boeuf (culotte)	289
+Boeuf (échine)	257
+Boeuf (entrecôte)	200
+Boeuf (épaule)	216
+Boeuf (faux-filet)	156
+Boeuf (filet)	180
+Boeuf (foie)	116
+Boeuf (gîte)	300
+Boeuf (hampe)	200
+Boeuf (langue)	200
+Boeuf (macreuse)	242
+Boeuf (noix)	184
+Boeuf (onglet)	200
+Boeuf (paleron)	216
+Boeuf (palette)	242
+Boeuf (plates côtes)	250
+Boeuf (rognon)	125
+Boeuf (rond de gîte)	225
+Boeuf (rosbif)	160
+Boeuf (rumsteack)	200
+Boeuf (steack)	200
+Boeuf (tendron)	300
+Boeuf (tournedos)	200
+Boeuf (tripes)	94
+Bonbel	353
+Boudoir	388
+Boudoirs	388
+Bouillon de légumes (1 louche)	30
+Bouquet de crevettes	98
+Boursault	354
+Boursin	414
+Brème	100
+Bretzel (à l’unité 15 g)	80
+Brie	263
+Brioche	386
+Brochet	78
+Brocolis	34
+Brugnons	64
+Cabillaud ou morue	79
+Cacahuètes (à l’unité)	10
+Café pour 100 ml	15
+Caille	115
+Calmar	89
+Calvados verre à liqueur = 4 cl	100
+Camembert	312
+Canard	250
+Canard sauvage	126
+Cantal	386
+Carde ou cardon	33
+Carotte	38
+Carotte (jus)	24
+Carottes râpées vinaigrette	130
+Carpe d’élevage	90
+Carpe sauvage	145
+Carré de l’Est	362
+Carré de porc	330
+Carré de veau	171
+Carrelet	65
+Cassis	60
+Cassoulet	180
+Caviar	275
+Céleri (feuille)	20
+Céleri rémoulade	100
+Céleri-rave	44
+Cêpes	28
+Cerf	116
+Cerises	77
+Cervelas	320
+Cervelle	125
+Chair à saucisse	422
+Champagne brut flûte	70
+Champagne doux flûte	120
+Champignon à la grecque	90
+Champignons	28
+Chanterelles	28
+Chapelure	382
+Charcuterie	450
+Châtaignes	211
+Chausson (unité)	300
+Chavignols	330
+Cheddar	382
+Cheval (steack)	110
+Chèvre	330
+Chevreau	160
+Chevreuil	120
+Chicorée frisée	20
+Chips Vico à l’ancienne saveur moutarde	549
+Chipster salé	460
+Chou	28
+Chou brocolis	34
+Chou chinois	12
+Chou de Bruxelles	54
+Chou-fleur	30
+Chou-navet	34
+Chou-rave	40
+Chou-rouge	36
+Choucroute	27
+Choucroute garnie	170
+Cidre brut bolée = 25 cl	77
+Citron	40
+Citron (jus)	32
+Citrouille	30
+Clafoutis (1 part)	270
+Clams	80
+Clovisses	50
+Coca cola verre = 250 ml	100
+Coco (lait)	20
+Coco (noix fraîche)	371
+Coco (noix sèche)	594
+Coeur de palmier	56
+Cognac verre = 4 cl	192
+Coing	32
+Colin ou merlu	92
+Compote de pomme sans sucre ajouté	45
+Compotes	100
+Comté	396
+Concombre	13
+Condiments	0
+Congolais (unité)	130
+Congre	110
+Cookies	464
+Coques	47
+Coquillages	60
+Coquille St-Jacques	74
+Corned-beef	275
+Cornichons	13
+Côtelettes d’agneau	330
+Côtes de mouton	300
+côtes de porc	330
+Côtes de veau	168
+Coulommiers	278
+Courge	30
+Courgette	30
+Couscous aux légumes	100
+Couteaux	55
+Crabe frais	85
+Crackers Belin Monaco emmental	555
+Crakers	360
+Craquelin (unité)	100
+Crème chantilly	288
+Crème de gruyère	280
+Crème de légumes (1 louche)	200
+Crème fraîche	300
+Crème fraîche (1 c. à soupe)	60
+Crème glacée chocolat	235
+Crème glacée fraises	192
+Crème glacée pistache	451
+Crème glacée vanille	165
+Crêpe nature	227
+Crêpe nature (unité)	40
+Crêpes orientales	345
+Cresson	20
+Cresson (soupe) (1 louche)	120
+Crevettes grises	98
+Croissant (unité)	180
+Croquants (unité)	218
+Crottins (fromage)	80
+Culotte de boeuf	289
+Culotte de veau	171
+Dattes	306
+Dattes “Deglet Nour”	311
+Daurade	77
+Demisel	174
+Dinde	260
+Dinde	125
+Dinde, viande rôtie	150
+Dindonneau	260
+Eau pour 100 ml	0
+Eau-de-vie verre à liqueur = 4 cl	100
+Echalottes	75
+Echine de boeuf	257
+Echine de porc	302
+Eclair au chocolat	262
+Ecrevisses	71
+Edam	353
+Eglefin	71
+Emmenthal	415
+Encornet	89
+Endive	20
+Endives au jambon	120
+Eperlan	78
+Epinards	25
+Escalope de veau	170
+Espadon	116
+Esturgeon	125
+Faisan	106
+Faux-filet (boeuf)	360
+Fenouil	20
+Fève	117
+Fève sèche	345
+Ficelle (unité)	382
+Figue	80
+Figue sèche	270
+Flageolets	120
+Flétan	117
+Flocons d’avoine nature	120
+Foie	133
+Foie gras	450
+Fondants	380
+Fraises	36
+Framboise (jus)	44
+Framboises	40
+Friand (unité)	370
+Fromage blanc à 0% aux fruits	80
+Fromage blanc à 0% MG	44
+Fromage blanc à 20% MG	80
+Fromage blanc à 40% MG	116
+Fromage de tête	342
+Fruit de la passion	100
+Fruits (compote)	100
+Fruits (jus 100%)	48
+Fruits (nectars)	70
+Fruits au sirop	100
+Fruits confits	380
+Fruits secs	300
+Gambas	98
+Gardon	112
+Gâteau au chocolat	360
+Gâteaux secs	420
+Gaufre nature	291
+Gaufres	400
+Gaufrettes	368
+Gaufrettes fourrées	523
+Gelée de fruits	280
+Gingembre	61
+Girolles	28
+Gorgonzola	405
+Gouda	353
+Goujon	62
+Goyave	60
+Graisse d’oie (1 cuil. soupe)	180
+Grenade	64
+Grenouille (cuisses)	72
+Gressins	350
+Grive	120
+Grondin	95
+Groseilles	30
+Gruyère	392
+Haddock	103
+Hamburger	560
+Hareng frais	149
+Hareng fumé	200
+Haricot de Lima	330
+Haricot mange-tout	40
+Haricot mungo	344
+Haricot sec (cru)	330
+Haricot sec (cuit)	120
+Haricot vert	40
+Hollande	353
+Homard	80
+Hot-dog (unité)	400
+Huile d’arachides	900
+Huile d’olives	900
+Huile de colza	900
+Huile de paraffine	0
+Huile de soja	900
+Huile de tournesol	900
+Huîtres	70
+Igname	100
+Jambon blanc cuit à l’eau	50
+Jambon cru	330
+Jambon cuit	290
+Jambon de Paris	290
+Jambon fumé	380
+Jambonneau	290
+Jarret de veau	183
+Jujube	135
+Jus de fruit 100%	48
+Kaki	63
+Kéfir	44
+Ketchup	110
+Kiwi	53
+Lait 1/2 écrémé	49
+Lait concentré	130
+Lait concentré sucré	330
+Lait écrémé	34
+Lait écrémé (poudre)	375
+Lait entier	65
+Lait entier (poudre)	482
+Laitue	18
+Lamproie	177
+Lançon ou équille	79
+Langouste	110
+Langoustine	90
+Langue	200
+Lapin de garenne	133
+Lapin domestique	160
+Lard	575
+Lard fumé	670
+Légumes secs	330
+Légumes verts	47
+Lentilles	338
+Lentilles (soupe) (1 louche)	360
+Lieu	90
+Lièvre	100
+Limande	78
+Limette	51
+Litchis	68
+Lotte ou baudroie	79
+Macaron (unité)	120
+Macarons	452
+Macédoine de fruits	100
+Macédoine de légumes	72
+Mâche	36
+Macreuse (boeuf)	242
+Madeleine (unité)	95
+Madeleines	490
+Maïs (conserve)	140
+Maïs (grain)	356
+Mandarine	40
+Mangue	62
+Manioc (racine)	140
+Maquereau frais	128
+Marcassin	104
+Margarine	755
+Margarine	755
+Margarine (1 noisette)	75
+Margarine (1 noix)	75
+Maroilles	420
+Marrons	211
+Marrons (crème)	298
+Marrons (purée)	211
+Marrons glacés	305
+Martini verre = 8 cl	128
+Mayonnaise	680
+Melon	31
+Merguez	520
+Merlan	90
+Merlu ou colin	92
+Mérou	225
+Millefeuille (unité)	320
+Mimolette	344
+Mirabelles	58
+Moelle	605
+Mollusques	90
+Monaco	507
+Morbier	300
+Morilles	28
+Mortadelle	305
+Morue	79
+Morue salée	163
+Morue séchée	322
+Moules	70
+Mousse de foie	410
+Mousse de poisson	185
+Mousserons	28
+Mousseux coupe = 10 cl	70
+Moutarde	100
+Mouton	265
+Mouton (cervelle)	120
+Mouton (coeur)	157
+Mouton (côtes)	300
+Mouton (épaule)	289
+Mouton (filet)	225
+Mouton (foie)	132
+Mouton (gigot)	250
+Mouton (langue)	264
+Mouton (rognon)	105
+Mouton (selle)	250
+Mozzarelle	332
+Muffins (unité)	150
+Mulet	151
+Munster	320
+Murène	176
+Mûres	57
+Muscat verre = 15 cl	240
+Museau de porc	342
+Myrtilles	16
+Navet	35
+Nectars de fruits	70
+Nèfles	97
+Noisette (unité)	10
+Noisettes	656
+Noix	660
+Noix (unité)	20
+Noix de boeuf	184
+Noix de cajou	612
+Noix de cajou	612
+Noix de coco	371
+Noix de porc	289
+Noix de veau	160
+Oasis orange verre = 15 cl	68
+Œuf au plat	90
+Œuf dur	70
+Œuf poché	143
+Oeufs de lump	80
+Oeufs de poissons	225
+Oie	350
+Oignons	46
+Oignons (soupe) (1 louche)	90
+Olives noires	336
+Olives vertes	123
+Omble ou ombre	123
+Orange	40
+Orange jus	42
+Orangina light verre = 15 cl	11
+Orangina verre = 15 cl	71
+Ormeaux	92
+Oursins	70
+Paella	180
+Pagre	77
+Pain au chocolat (unité)	280
+Pain au lait (unité)	120
+Pain au raisin (unité)	270
+Pain azyme	255
+Pain bis	255
+Pain blanc	255
+Pain brioché	267
+Pain complet	230
+Pain d’épice	350
+Pain de mie	284
+Pain de seigle	241
+Pain de son	257
+Pain grillé	416
+Pain viennois	258
+Palmier (coeur)	56
+Palourdes	95
+Pamplemousse	40
+Pamplemousse jus	42
+Panais	74
+Papaye	44
+Parmesan	393
+Pastèque	30
+Pastis dose = 4 cl	130
+Patate douce	110
+Pâté de campagne	455
+Pâté de foie	465
+Pâté de tête	342
+Pâtes natures	90
+Pavé d’Auge	300
+Pêche	47
+Pêche (jus)	52
+Pêches au sirop	70
+Pepsi pour 100ml	42
+Perche	112
+Perdreau	115
+Perdrix	115
+Perrier	0
+Petit salé	330
+Petitbeurre	420
+Petitbeurre (unité)	35
+Petits pois	70
+Petitsuisse (40 %)	146
+Petitsuisse (60 %)	236
+Pétoncles	50
+Pied de veau	342
+Pieuvre	61
+Pigeon	108
+Pintade	108
+Pissenlit	48
+Pistaches	617
+Plie	65
+Poire	61
+Poire (jus)	60
+Poireau	42
+Pois (petits pois)	70
+Pois cassés	356
+Pois cassés (soupe) (1 louche)	380
+Pois chiche	360
+Pois secs	330
+Poissons à l’huile	325
+Poissons demi-gras	120
+Poissons fumés	265
+Poissons gras	180
+Poissons maigres	75
+Poissons panés	175
+Poissons séchés	320
+Poitrine de porc	300
+Poivron	22
+Pomme	52
+Pomme (jus)	47
+Pomme de terre	90
+Pomme de terre (chips)	570
+Pomme de terre (flocons)	357
+Pomme de terre (frites)	420
+Pomme de terre (purée)	95
+PontLévêque	300
+Porc	300
+Porc (carré)	330
+Porc (cervelle)	129
+Porc (coeur)	115
+Porc (côtes)	330
+Porc (échine)	302
+Porc (filet)	290
+Porc (foie)	135
+Porc (jambon fumé)	385
+Porc (jambon)	300
+Porc (langue)	207
+Porc (lard fumé)	670
+Porc (lard)	575
+Porc (noix)	289
+Porc (palette)	300
+Porc (pied)	342
+Porc (poitrine)	300
+Porc (rognons)	102
+Porc (rôti)	300
+Porc (salami)	410
+Porc (saucisse)	330
+Porc (saucisson)	440
+Porc (travers)	305
+Porto verre = 7 cl	80
+Portsalut	362
+Potiron	30
+Poule	300
+Poulet	150
+Poulet basquaise	150
+Poulpe	70
+Pourpier (feuille)	15
+Pousses de bambou	35
+Praires	61
+Pringles original	540
+Prune	56
+Prune (jus)	68
+Pruneaux	290
+Pudding (1 part)	360
+Pyrénées	365
+Quasi de veau	171
+Quatrequarts	400
+Quetsches	56
+Quiche (unité)	340
+Radis	20
+Raie	89
+Raisin	81
+Raisin jus	76
+Raisins secs	324
+Rascasse	98
+Ratatouille niçoise	100
+Reblochon	354
+Requin	106
+Rhubarbe	16
+Rhum verre = 4 cl	154
+Ricard dose = 4 cl	130
+Rillettes	250
+Rillettes d’oie	464
+Rillettes de saumon	320
+Ris de veau	125
+Riz basmati cuit	90
+Riz blanc cuit	90
+Riz complet cuit	98
+Rognons	120
+Rollmops	224
+Romaine	18
+Rond de gîte	225
+Roquefort	405
+Rosbif	160
+Rôti de porc	300
+Rôti de veau	168
+Rouget-barbet	148
+Rouget-grondin	95
+Roussette	106
+Rouy	362
+Rutabaga	34
+Sablés	460
+Saindoux	850
+Saint-Jacques	74
+Saint-Pierre	74
+SaintFlorentin	312
+SaintMarcellin	228
+SaintNectaire	354
+SaintPaulin	365
+Salade verte	18
+Salsifis	77
+Sandre	112
+Sandwich (gruyère)	480
+Sandwich (jambon)	430
+Sandwich (rillettes)	580
+Sandwich (saucisson)	530
+Sandwich (thon)	450
+Sandwich (viande)	450
+Sanglier	104
+Sardines à l’huile	125
+Sardines fraîches	77
+Sauce bolognaise	120
+Saumon (conserve)	170
+Saumon frais	200
+Saumon fumé	265
+Saumonette	106
+Scampi	47
+Scarole	25
+Seiche	90
+Semoule nature	130
+Silure	250
+Sirop à l’eau 10 g pour 1 verre	33
+Sole	78
+Sorbet	90
+Soupe à la tomate	30
+Soupe aux légumes verts	25
+Soupe de poisson	30
+Soupe de Poissons (1 louche)	90
+Spiritueux verre = 4 cl	112
+Sprats	160
+Sprite 1 verre = 15 cl	54
+Suze verre = 8 cl	84
+Taboulé	150
+Tanche	75
+Tartare (portion 20 g)	69
+Tartare (steack)	200
+Tarte (pommes)	300
+Tendron de boeuf	300
+Tête de veau	210
+Tétragone	25
+Thé glacé pour 100ml	30
+Thé pour 100 ml	0
+Thon à l’huile	280
+Thon frais	225
+Tomate	20
+Tomate (concentré)	90
+Tomate (jus)	16
+Tomate (sauce)	120
+Tomate farcie	120
+Tomme	354
+Topinambour	78
+Tournedos (boeuf)	200
+Tourteau	85
+Travers de porc	305
+Tripes	94
+Truffe fraîche	92
+Truite	103
+Truite saumonnée	151
+Turbot	118
+Turbotin	118
+Veau (aloyau)	175
+Veau (araignée)	171
+Veau (carré)	171
+Veau (cervelle)	120
+Veau (coeur)	127
+Veau (côtes)	168
+Veau (épaule)	168
+Veau (foie)	137
+Veau (hampe)	200
+Veau (jarret)	183
+Veau (langue)	123
+Veau (longe)	171
+Veau (noix)	160
+Veau (onglet)	171
+Veau (pieds)	342
+Veau (quasi)	171
+Veau (ris)	116
+Veau (rognon)	123
+Veau (rôti)	168
+Veau (tête)	210
+Veau, escalope, poêlée	150
+Végétaline	900
+Vermouth verre = 7 cl	77
+Vin blanc 10° verre = 15 cl	108
+Vin cuit verre = 7 cl	160
+Vin rouge 12° verre = 15 cl	105
+Vodka verre à liqueur = 4 cl	100
+Whisky verre = 8 cl	384
+Whisky verre = 8 cl	384
+Yaourt à 0% (unité)	44
+Yaourt à 0% sucré	80
+Yaourt aromatisé	120
+Yaourt au chocolat	140
+Yaourt aux fruits	100
+Yaourt nature (unité)	55
+Farine	364
+chapelure	395
+ail	131
+curry	0
+huile	884
+coulis de tomates	29
+sel	0
+coriande	0
+lait de coco	230
+riz pour risotto	98
+carottes	36
+bouillon de légumes	5
+parmesan rapé	441
+persil	0
+Barre céréales et chocolat taillefine	79
+Barre Kit Kat	518
+Barre Mars	423
+Barre Muesli	531
+Barre Snickers	467
+Barre Twix	499
+Bonbons M&M’S	526
+Cassonade	380
+Chocolat au lait	550
+Chocolat blanc	570
+Chocolat noir	520
+Confits abricots	338
+Confits ananas	316
+Croissant beurre	406
+Massepain	550
+Ferrero Rocher	560
+Miel	304
+Gingembre confit	351
+Nutella	530
+Pain au chocolat	410
+Pain d’épice	356
+Pâte de fruit	217
+Petit Ecolier	495
+Pop corn	382
+Réglisse	377
+Sirop d’agave	376
+Sucre	396
+Sucre canne	396
+Sucre glace	399
+Sucre roux	390
+Sucre vanillé	396
+poivre	0
+filet de saumon	174
+lotte	97
+safran	0
+petit pois	71
+artichaud	47
+pointes d'asperges blanches	20
+pointes d'asperges vertes	20
+câpres	29
+yaourt nature	70
+ciboulette	0
+veau haché	172
+cumin	0
+radis noir	18
+moutarde	66
+menthe fraiche	49
+yaourt nature brassé	73
+œuf	52
+huile d'olive	884
+blé	155
+boulghour	342
+bouillon	267
+pommes de terre	85
+filet de daurade	91
+colombo	0
+paprika	0
+basilic	22
+eau	0
+daurade	91
+thym	0
+laurier	0
+fenouil	31
+vin blanc	82
+bœufs haché	322
